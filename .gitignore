@@ -3,5 +3,5 @@
 *.o
 
 __pycache__/
-build/
+#build/
 cmake-build-debug/
