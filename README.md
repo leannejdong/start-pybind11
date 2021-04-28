@@ -24,7 +24,6 @@ the arguments that will be sent to the m
 #### Get Pybind11
 
 ```
-mkdir extern
 git submodule add -b stable git@github.com:pybind/pybind11.git extern/pybind11
 ```
 
